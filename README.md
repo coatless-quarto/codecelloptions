@@ -6,7 +6,7 @@ The `codecelloptions` extension is a Quarto extension designed to improve workin
 
 ## Usage
 
-The `codecelloptions` extension does not introduce significant enhancements to your document's content. Instead, it serves as a way for authors to quickly bootstrap their own custom code cell through an extension dependency]().
+The `codecelloptions` extension does not introduce significant enhancements to your document's content. Instead, it serves as a way for authors to quickly bootstrap their own custom code cell through an [extension embedding](https://quarto.org/docs/journals/formats.html#extension-embedding).
 
 ## Installation
 
