@@ -1,0 +1,5 @@
+---
+title: "Home"
+---
+
+The `codecelloptions` extension allows you to extract options in custom code cells within [Quarto](https://quarto.org/) publishing framework.
